@@ -8,4 +8,4 @@ Foram utilizados os dados do site .GOV com o seguinte tema "Quantidade de alunos
 # Fórmulas utilizadas:
 Nas planilhas foram usadas as seguintes fórmulas:
 ## SOMASE ; SOMA ; CONT.SES ; CONT.SE ; e Tabela Dinâmica
-
+Planilha em "Trabalho.xlsm"
