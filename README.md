@@ -1,14 +1,17 @@
 # 1º Atividade
-Realizamos nossa apresentação pessoal de maneira interativa com perguntas para a sala. Os slides foram feitos no Canva e o nosso grupo era composto por 7 pesssoas (Fernanda, Alana, Felipe, Juan, Cauan, Caue e Pedro).
-Não possuo o arquivo da apresentação.
+Realizamos nossa apresentação pessoal de maneira interativa com perguntas para a sala. Os slides foram feitos no Canva e o nosso grupo era composto por 7 pesssoas (Fernanda, Alana, Felipe, Juan, Cauan, Caue e Pedro). Não possuo o arquivo da apresentação.
 
 # 2º Atividade
 Fiz uma planilha de gastos mensais no excel, utilizando as fórmulas: SOMASE ; SOMA ; SE e CONT.SE.
+
 ![WhatsApp Image 2024-10-04 at 20 01 51](https://github.com/user-attachments/assets/0cce4aa2-94b3-4488-9f66-bafb9beb9f9d)
-[Controle de gastos.xlsx](https://github.com/user-attachments/files/17264378/Controle.de.gastos.xlsx)
+Arquivo : [Controle de gastos.xlsx](https://github.com/user-attachments/files/17264378/Controle.de.gastos.xlsx)
 
 # 3º Atividade
-dados da planilha Quantidade de alunos estrangeiros por nacionalidade_2° Semestre 2023
+Utilizando os dados da planilha "Quantidade de alunos estrangeiros por nacionalidade_2° Semestre 2023" respondi as 4 perguntas da professora, e utilizei as fórmulas SOMA ; CONT.SE ; SOMASE  ; CONCAT e MAIOR.
+![WhatsApp Image 2024-10-04 at 20 22 12](https://github.com/user-attachments/assets/9bb45f28-9a14-4efb-b51a-575aad1902bc)![WhatsApp Image 2024-10-04 at 20 22 12 (1)](https://github.com/user-attachments/assets/9248d1a1-d1ef-40ce-bc47-cd54cce78dad)![WhatsApp Image 2024-10-04 at 20 22 12 (2)](https://github.com/user-attachments/assets/29524a99-c05a-49b9-aeb8-a8defe075308)
+Arquivo : [Atividade Informatica #3.xlsx](https://github.com/user-attachments/files/17264442/Atividade.Informatica.3.xlsx)
+
 
 # 4º Atividade
 Foram utilizados os dados do site .GOV com o seguinte tema "Quantidade de alunos por tipo de ensino da rede estadual", e elaboradas 5 perguntas:
