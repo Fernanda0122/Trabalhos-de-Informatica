@@ -35,13 +35,13 @@ Arquivo : [Atividade Informatica #4.xlsx](https://github.com/user-attachments/fi
 Realizei um dashboard no Power BI com os dados da pasta "DadosAtv", são planilhas de vendas de lojas por muníncipio.
 ## Modelos dos gráficos:
 ![WhatsApp Image 2024-10-04 at 20 44 51](https://github.com/user-attachments/assets/d35bea24-cea6-440a-8dc3-099b01e90421)
-Arquivo : 
+Arquivo : Está em "Atividade informática #5"
 
 
 # 6º Atividade
 Realizei um dashboard no Power BI com os dados da planilha "Quantidade de alunos estrangeiros por nacionalidade_2° Semestre 2023".
 ## Modelos dos gráficos: 
 ![WhatsApp Image 2024-10-04 at 19 29 46](https://github.com/user-attachments/assets/00998f88-d9b7-4cea-9f6c-ceae8262cac4)
-Arquivo : 
+Arquivo : Está em "Atividade informática #6"
 
 
