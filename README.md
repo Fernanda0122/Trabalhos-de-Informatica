@@ -29,7 +29,7 @@ Fórmulas utilizadas: SOMASE ; SOMA ; CONT.SES ; CONT.SE e Tabela Dinâmica.
 ## Modelos dos gráficos:
 ![Capturar2](https://github.com/user-attachments/assets/57638e08-a761-4a0e-b0fa-6ef138653bda)![Capturar1](https://github.com/user-attachments/assets/7e8650c0-25e5-4122-b342-e3fd853c16db)
 ![Capturar4](https://github.com/user-attachments/assets/61dfbd78-73be-4f7f-92fb-93dd7718a4bc)![Capturar5](https://github.com/user-attachments/assets/7d2c7ac2-7683-4ace-85ca-cb43e95ce13f)
-Arquivo : [Atividade Informatica #4.xlsx](https://github.com/user-attachments/files/17264481/Atividade.Informatica.4.xlsx)
+Arquivo : Está em "Atividade informática #4"
 
 # 5º Atividade
 Realizei um dashboard no Power BI com os dados da pasta "DadosAtv", são planilhas de vendas de lojas por muníncipio.
