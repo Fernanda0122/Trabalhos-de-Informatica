@@ -53,3 +53,10 @@ Realizei um dashboard no Power BI com os dados da planilha "Quantidade de alunos
 ![WhatsApp Image 2024-10-15 at 17 32 29](https://github.com/user-attachments/assets/f2c406d6-581e-46b6-96ce-782359cf71ec)
 Arquivo : [Atividade #7.zip](https://github.com/user-attachments/files/17384767/Atividade.7.zip)
 
+# 8º Atividade
+Utilizando o Power BI com os dados da pasta "DadosAtv" respondendi a 2º questão proposta pela professora.
+## Modelos dos gráficos: 
+![WhatsApp Image 2024-10-18 at 19 58 51](https://github.com/user-attachments/assets/3df31478-3394-45ee-af3c-d95a5efb8829)
+![Capturar](https://github.com/user-attachments/assets/21376d88-3442-43a8-b8fb-6e8e9b050c06)![Capturar3](https://github.com/user-attachments/assets/2cc16393-a1b2-4725-9ee7-f3265b4a0487)
+![Capturar2](https://github.com/user-attachments/assets/f23fb657-3d07-4dc6-9128-332ce8563c6d)
+Arquivo : [Atividade 8.zip](https://github.com/user-attachments/files/17441536/Atividade.8.zip)
