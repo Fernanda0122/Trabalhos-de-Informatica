@@ -31,14 +31,11 @@ Fórmulas utilizadas: SOMASE ; SOMA ; CONT.SES ; CONT.SE e Tabela Dinâmica.
 ![Capturar4](https://github.com/user-attachments/assets/61dfbd78-73be-4f7f-92fb-93dd7718a4bc)![Capturar5](https://github.com/user-attachments/assets/7d2c7ac2-7683-4ace-85ca-cb43e95ce13f)
 Arquivo : [Atividade Informatica #4.zip](https://github.com/user-attachments/files/17384791/Atividade.Informatica.4.zip)
 
-
 # 5ª Atividade
 Realizei um dashboard no Power BI com os dados da pasta "DadosAtv", são planilhas de vendas de lojas por muníncipio.
 ## Modelos dos gráficos:
 ![WhatsApp Image 2024-10-04 at 20 44 51](https://github.com/user-attachments/assets/d35bea24-cea6-440a-8dc3-099b01e90421)
 Arquivo : [Atividade informática #5.zip](https://github.com/user-attachments/files/17384786/Atividade.informatica.5.zip)
-
-
 
 # 6ª Atividade
 Realizei um dashboard no Power BI com os dados da planilha "Quantidade de alunos estrangeiros por nacionalidade_2° Semestre 2023".
@@ -46,17 +43,24 @@ Realizei um dashboard no Power BI com os dados da planilha "Quantidade de alunos
 ![WhatsApp Image 2024-10-04 at 19 29 46](https://github.com/user-attachments/assets/00998f88-d9b7-4cea-9f6c-ceae8262cac4)
 Arquivo : [Atividade Informatica #6.zip](https://github.com/user-attachments/files/17384784/Atividade.Informatica.6.zip)
 
-
-# 7º Atividade
+# 7ª Atividade
 Realizei um dashboard no Power BI com os dados da planilha "Quantidade de alunos por tipo de ensino da rede estadual" respondendo as perguntas da 4ª atividade.
 ## Modelos dos gráficos: 
 ![WhatsApp Image 2024-10-15 at 17 32 29](https://github.com/user-attachments/assets/f2c406d6-581e-46b6-96ce-782359cf71ec)
 Arquivo : [Atividade #7.zip](https://github.com/user-attachments/files/17384767/Atividade.7.zip)
 
-# 8º Atividade
-Utilizando o Power BI com os dados da pasta "DadosAtv" respondendi a 2º questão proposta pela professora.
+# 8ª Atividade
+Utilizando o Power BI com os dados da pasta "DadosAtv" respondi a 2º questão proposta pela professora.
 ## Modelos dos gráficos: 
 ![WhatsApp Image 2024-10-18 at 19 58 51](https://github.com/user-attachments/assets/3df31478-3394-45ee-af3c-d95a5efb8829)
 ![Capturar](https://github.com/user-attachments/assets/21376d88-3442-43a8-b8fb-6e8e9b050c06)![Capturar3](https://github.com/user-attachments/assets/2cc16393-a1b2-4725-9ee7-f3265b4a0487)
 ![Capturar2](https://github.com/user-attachments/assets/f23fb657-3d07-4dc6-9128-332ce8563c6d)
 Arquivo : [Atividade 8.zip](https://github.com/user-attachments/files/17441536/Atividade.8.zip)
+
+# 9ª Atividade
+Utilizando o Power BI com os dados da planilha "Quantidade de alunos por tipo de ensino da rede estadual_2023_2°SEMESTRE" elaborei e respondi 3 metas:
+![image (1)](https://github.com/user-attachments/assets/d378c922-e9b5-491b-b4b2-13894a09df2b)
+
+## Modelos das visualizações em KPI: 
+![image](https://github.com/user-attachments/assets/3ebe49d5-ff8b-4a93-ac11-60954eb98ac8)
+Arquivo : [Atividade #9.zip](https://github.com/user-attachments/files/17595070/Atividade.9.zip)
