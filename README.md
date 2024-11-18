@@ -64,3 +64,15 @@ Utilizando o Power BI com os dados da planilha "Quantidade de alunos por tipo de
 ## Modelos das visualizações em KPI: 
 ![image](https://github.com/user-attachments/assets/3ebe49d5-ff8b-4a93-ac11-60954eb98ac8)
 Arquivo : [Atividade #9.zip](https://github.com/user-attachments/files/17595070/Atividade.9.zip)
+
+# 10ª Atividade
+Utilizando o Power Apps criei um aplicativo de controle de itens, utilizando uma planilha criado pelo Copilot.
+## Visualizações do aplicativo em diferentes aparelhos: 
+Celular:
+![WhatsApp Image 2024-11-18 at 15 30 20](https://github.com/user-attachments/assets/712f48d9-a4b2-4db0-9627-0ebfaf4d3d62)
+Tablet:
+![WhatsApp Image 2024-11-18 at 15 31 34](https://github.com/user-attachments/assets/37340f53-13a6-494c-939f-799ae175dc1c)
+## Vídeo do aplicativo funcionando: 
+[Demonstração do App funcionando.zip](https://github.com/user-attachments/files/17804748/Demonstracao.do.App.funcionando.zip)
+## Link do aplicativo : 
+[[Atividade #9.zip](https://github.com/user-attachments/files/17595070/Atividade.9.zip)](https://apps.powerapps.com/play/e/2ce5e415-a59c-e6e1-a09e-495f4d2ff7e1/a/82ca5590-35ed-4d7b-a97f-894b244c1af1?tenantId=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&sourcetime=1731953655451)
