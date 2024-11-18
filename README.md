@@ -1,3 +1,20 @@
+# Atividades de Informática
+Este repositório contém as atividades realizadas durante o curso de Logística na Fatec SJC. Cada atividade aborda tópicos importantes relacionados a análise de dados, programação, aplicativos como Power BI, Excel, Power Apps, dentre outros...
+
+---
+
+## Sobre este Repositório
+Aqui você encontrará:
+- 10 atividades organizadas por ordem de execução.
+- Resultados obtidos para cada tarefa e seus respectivos arquivos.
+- O objetivo de cada atividade e como foi desenvolvida.
+
+- **Autor:** Fernanda Sant Ana da Silva
+- **Contato:** fesilva3524@gmail.com
+- **Propósito:** Registro das atividades para estudo e consulta.
+
+---
+
 # Sumario
 - [1ª Atividade](#1ª-atividade)
 - [2ª Atividade](#2ª-atividade)
@@ -9,6 +26,8 @@
 - [8ª Atividade](#8ª-atividade)
 - [9ª Atividade](#9ª-atividade)
 - [10ª Atividade](#10ª-atividade)
+
+---
 
 # 1ª Atividade
 Realizamos nossa apresentação pessoal de maneira interativa com perguntas para a sala. Os slides foram feitos no Canva e o nosso grupo era composto por 7 pesssoas (Fernanda, Alana, Felipe, Juan, Cauan, Caue e Pedro). Não possuo o arquivo da apresentação.
