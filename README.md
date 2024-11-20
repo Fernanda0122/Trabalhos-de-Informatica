@@ -106,4 +106,4 @@ Tablet:
 ## Vídeo do aplicativo funcionando: 
 [Demonstração do App funcionando.zip](https://github.com/user-attachments/files/17804748/Demonstracao.do.App.funcionando.zip)
 ## Link do aplicativo : 
-[[Atividade #9.zip](https://github.com/user-attachments/files/17595070/Atividade.9.zip)](https://apps.powerapps.com/play/e/2ce5e415-a59c-e6e1-a09e-495f4d2ff7e1/a/82ca5590-35ed-4d7b-a97f-894b244c1af1?tenantId=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&sourcetime=1731953655451)
+(https://github.com/user-attachments/files/17595070/Atividade.9.zip)](https://apps.powerapps.com/play/e/2ce5e415-a59c-e6e1-a09e-495f4d2ff7e1/a/82ca5590-35ed-4d7b-a97f-894b244c1af1?tenantId=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&sourcetime=1731953655451)
