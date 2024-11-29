@@ -5,7 +5,7 @@ Este repositório contém as atividades realizadas durante o curso de Logística
 
 ## Sobre este Repositório
 Aqui você encontrará:
-- 10 atividades organizadas por ordem de execução.
+- 11 atividades organizadas por ordem de execução.
 - Resultados obtidos para cada tarefa e seus respectivos arquivos.
 - O objetivo de cada atividade e como foi desenvolvida.
 
@@ -26,6 +26,7 @@ Aqui você encontrará:
 - [8ª Atividade](#8ª-atividade)
 - [9ª Atividade](#9ª-atividade)
 - [10ª Atividade](#10ª-atividade)
+- [11ª Atividade](#11ª-atividade)
 
 ---
 
@@ -107,3 +108,9 @@ Tablet:
 [Demonstração do App funcionando.zip](https://github.com/user-attachments/files/17804748/Demonstracao.do.App.funcionando.zip)
 ## Link do aplicativo : 
 (https://apps.powerapps.com/play/e/2ce5e415-a59c-e6e1-a09e-495f4d2ff7e1/a/82ca5590-35ed-4d7b-a97f-894b244c1af1?tenantId=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&sourcetime=1731953655451)
+
+# 11ª Atividade
+Realizei um dashboard no Power BI com os dados "Dados Quantidade Docentes Categoria Funcional", são planilhas csv com quantidade de docentes por categoria funcional.
+## Modelo dos gráficos:
+![WhatsApp Image 2024-11-28 at 22 47 18](https://github.com/user-attachments/assets/dcb0c675-e462-4c5a-a773-dead028586f3)
+Arquivo : [Análise dos dados da quantidade de docentes por categoria funcional.zip](https://github.com/user-attachments/files/17953466/Analise.dos.dados.da.quantidade.de.docentes.por.categoria.funcional.zip)
